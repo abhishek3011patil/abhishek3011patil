@@ -3,7 +3,7 @@
 
 
 ## Heya, I'm Abhishek Patil AKA gamer AP. 
-#### Currently pursuing Degree in Information Technology,I'm in My final year. I have good coding skills and now i am working on my thinking skills because 
+#### Currently pursuing a Degree in Information Technology, I'm in My final year. I have some good coding skills and now I am working on my thinking skills because 
 >"If you can think, You can code" -Abhishek Patil.
 
  - 🔭 I’m currently working on my Portfolio.
