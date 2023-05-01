@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning MERN Stack
  - 💬 Ask me about how to reverse a Linked List
  - 📫 How to reach me: Discord : gamer ap#5356
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Believe in YourSelf.
 
 ## Techie Knowledge
